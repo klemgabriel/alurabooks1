@@ -1,1 +1,11 @@
+:root{
+  --cor-de-fundo: #EBECEE;
+}
 
+body {
+  background-color: var(--cor-de-fundo);
+}
+
+.titulo-principal{
+  backgroun-color: #FFFFFF;
+}
